@@ -6,7 +6,7 @@ biocViews: Software,
     Preprocessing,
     QualityControl
 Title: R Package for Processing High Content Screening data
-Version: 1.11.2
+Version: 1.10.2
 Author: Vincenzo Belcastro [aut, cre],
     Dayne L Filer [aut],
     Stephane Cano [aut]
