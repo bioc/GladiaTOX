@@ -4,7 +4,7 @@
 \alias{glPlotPosCtrlMEC}
 \title{Box plot for positive control check}
 \usage{
-glPlotPosCtrlMEC(asid, masked = NULL)
+glPlotPosCtrlMEC(asid)
 }
 \arguments{
 \item{asid}{Assay source id}

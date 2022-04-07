@@ -39,7 +39,7 @@
 #' @export
 #'
 
-glPlotPosCtrlMEC <- function(asid, masked=NULL) {
+glPlotPosCtrlMEC <- function(asid) {
 
     addFlds <- c("asid", "aid", "anm", "acnm")
     
