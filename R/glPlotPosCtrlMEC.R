@@ -14,6 +14,7 @@
 #' as boxplot historical positive control MECs
 #'
 #' @param asid Assay source id
+#' @param masked Masking color
 #'
 #' @details
 #' This funtion is useful to select plates to mask
@@ -39,7 +40,7 @@
 #' @export
 #'
 
-glPlotPosCtrlMEC <- function(asid) {
+glPlotPosCtrlMEC <- function(asid, masked=NULL) {
 
     addFlds <- c("asid", "aid", "anm", "acnm")
     
